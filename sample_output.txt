@@ -1,0 +1,3 @@
+Sum of first 50 natural numbers (loop): 1275
+
+Sum using formula n(n+1)/2: 1275
