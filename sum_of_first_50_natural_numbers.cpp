@@ -1,6 +1,6 @@
 
 /*
- * Program    : Sum of First 50 Natural Numbers
+ * Program    : Sum of First 50 Natural Numbers (C++)
  * Name       : M.Arham Sikander 
  * Reg No     : L1S26BSCS0059
  * Assignment : 01 - Getting Started with GitHub
