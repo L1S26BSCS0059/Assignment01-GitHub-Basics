@@ -23,7 +23,7 @@ int main()
     cout << "Sum of first " << N
         << " natural numbers (loop): " << sum << endl;
 
-    // Method 2: Verify using the formula n(n+1)/2
+    // Method 2: // Method 2: Verify the result using formula n(n+1)/2
     int formulaSum = N * (N + 1) / 2;
 
     cout << "Sum using formula n(n+1)/2: "
